@@ -88,8 +88,8 @@ O site foi pensado prioritariamente para o celular:
 > 
 > *Para ajudar a aumentar as reservas diretas de vocês pelo WhatsApp, nós criamos um modelo exclusivo de site oficial e página para a bio do Instagram:*
 > 
-> *👉 [LINK DO SITE NO GITHUB PAGES]*
-> *👉 [LINK DA PÁGINA DA BIO]*
+> *👉 https://artflip.github.io/pousada-pouso-do-rio/*
+> *👉 https://artflip.github.io/pousada-pouso-do-rio/bio/*
 > 
 > *O site foi 100% pensado para o celular: destaca o Rio das Almas, a piscina, o café da manhã com a famosa pamonha de vocês e tem botões diretos para o cliente fechar a reserva no WhatsApp de vocês.*
 > 
